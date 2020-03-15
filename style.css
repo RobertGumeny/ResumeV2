@@ -10,9 +10,18 @@
 .skill-section{
   background-color: lightgray;
 }
+.skill-icons{
+  color: #8f9191;
+}
+.skill-icons:hover{
+  color: #343a40;
+}
 .social-icons{
   color: lightgray;
   background: #343a40;
   padding: 15px;
   border-radius: 50%;
+}
+.social-icons:hover{
+  background: #717a81;
 }
